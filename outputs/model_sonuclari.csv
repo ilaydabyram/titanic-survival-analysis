@@ -1,0 +1,5 @@
+model,eğitim,çapraz-doğr. (eğitim),test
+Baz çizgi (hep 'öldü' de),0.617,0.617,0.615
+Lojistik regresyon,0.809,0.803,0.81
+Karar ağacı (derinlik 3),0.829,0.806,0.804
+Karar ağacı (derinlik 8),0.916,0.806,0.788
